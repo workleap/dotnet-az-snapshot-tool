@@ -4,7 +4,7 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <Description>CLI tool that creates Azure managed disk snapshots.</Description>
-        <RepositoryUrl>https://github.com/gsoft-inc/dotnet-</RepositoryUrl>
+        <RepositoryUrl>https://github.com/workleap/dotnet-</RepositoryUrl>
         <Version>1.0.1</Version>
     </PropertyGroup>
 
